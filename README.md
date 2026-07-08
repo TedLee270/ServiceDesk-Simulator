@@ -6,7 +6,7 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 1. Scenario Overview
 
 <p align="center">
-  <img src="ServiceDesk-Scenario-1-Prompt.png" width="600" alt="Scenario Prompt"><br>
+  <img src="" width="600" alt="Scenario Prompt"><br>
   <em>Figure 1. Initial service desk ticket.</em>
 </p>
 
