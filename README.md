@@ -6,7 +6,7 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 1. Scenario Overview
 
 <p align="center">
-  <img src="ServiceDesk-Scenario-1-Ticket.png" width="600" alt="Scenario Prompt"><br>
+  <img src="scenario1images/ServiceDesk-Scenario-1-Ticket.png" width="600" alt="Scenario Prompt"><br>
   <em>Figure 1. Initial ticket.</em>
 </p>
 
@@ -18,30 +18,30 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 
 * The first step that I took check the Active Directory and search up Kavtia Patel.
 <p align="center">
-  <img src="Scenario1-Pic1.png" width="500" alt="Active Directory"><br>
+  <img src="scenario1images/Scenario1-Pic1.png" width="500" alt="Active Directory"><br>
   <em>Figure 2. Active Directory Search.</em>
 </p>
 
 * Once I clicked on her name, I went to the "Groups" tab and found that she was under "Engineering".
 <p align="center">
-  <img src="Scenario1-GroupsBefore.png" width="500" alt="Engineering Group"><br>
+  <img src="scenario1images/Scenario1-GroupsBefore.png" width="500" alt="Engineering Group"><br>
   <em>Figure 3. Engineering Group.</em>
 </p>
 
 * I then removed her from the "Engineering" group to the "IT Infrastructure" group.
 <p align="center">
-  <img src="Scenario1-GroupsAfter.png" width="500" alt="IT Infrastructure Group"><br>
+  <img src="scenario1images/Scenario1-GroupsAfter.png" width="500" alt="IT Infrastructure Group"><br>
   <em>Figure 4. IT Infrastructure Group.</em>
 </p>
 
 * Lastly, I messaged her manager Tom Wilson, who submitted the ticket to confirm whether or not the changes were submitted correctly.
 <p align="center">
-  <img src="Scenario1-UserConfirmation.png" width="350" alt="User Confirmation"><br>
+  <img src="scenario1images/Scenario1-UserConfirmation.png" width="350" alt="User Confirmation"><br>
   <em>Figure 5. User Confirmation.</em>
 </p>
 
 <p align="center">
-  <img src="Scenario1-ManagerConfirmation.png" width="350" alt="Manager Confirmation"><br>
+  <img src="scenario1images/Scenario1-ManagerConfirmation.png" width="350" alt="Manager Confirmation"><br>
   <em>Figure 6. Manager Confirmation.</em>
 </p>
 
@@ -61,7 +61,7 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 1. Scenario Overview
 
 <p align="center">
-  <img src="Scenario-2-Ticket.png" width="600" alt="Scenario Prompt"><br>
+  <img src="scenario2images/Scenario-2-Ticket.png" width="600" alt="Scenario Prompt"><br>
   <em>Figure 1. Initial ticket.</em>
 </p>
 
@@ -74,7 +74,7 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 * The first step that I took was to go to Active Directory to create a profile for Jennifer.
 
 <p align="center">
-  <img src="Scenario1-Pic1.png" width="500" alt="Active Directory"><br>
+  <img src="scenario2images/Scenario1-Pic1.png" width="500" alt="Active Directory"><br>
   <em>Figure 2. Active Directory Search.</em>
 </p>
 
