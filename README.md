@@ -61,7 +61,7 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 1. Scenario Overview
 
 <p align="center">
-  <img src="scenario2images/Scenario-2-Ticket.png" width="600" alt="Scenario Prompt"><br>
+  <img src="scenario2images/Scenario2-InitialTicket.png" width="600" alt="Scenario Prompt"><br>
   <em>Figure 1. Initial ticket.</em>
 </p>
 
@@ -74,9 +74,27 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 * The first step that I took was to go to Active Directory to create a profile for Jennifer.
 
 <p align="center">
-  <img src="scenario2images/Scenario1-Pic1.png" width="500" alt="Active Directory"><br>
-  <em>Figure 2. Active Directory Search.</em>
+  <img src="scenario2images/Scenario2-CreateUser.png" width="500" alt="Create User"><br>
+  <em>Figure 2. Create User.</em>
 </p>
 
-* 
+* After filling out the initial information, I went to the "Groups" tab and added her to the additional groups that were requested.
+
+<p align="center">
+  <img src="scenario2images/Scenario2-GroupAccess.png" width="500" alt="Group Access"><br>
+  <em>Figure 3. Group Access.</em>
+</p>
+
+* After creating her profile, I confirmed with both her and her manager, Tom Wilson, to make sure everything was set up correctly. I even went a step further and helped her reset her password so she was able to log into her account for the first time.
+
+<p align="center">
+  <img src="scenario2images/Scenario2-ManagerConfirmation.png" width="500" alt="Manager Confirmation"><br>
+  <em>Figure 4. Manager Confirmation.</em>
+</p>
+
+<p align="center">
+  <img src="scenario2images/Scenario2-UserConfirmation.png" width="500" alt="User Confirmation"><br>
+  <em>Figure 5. User Confirmation.</em>
+</p>
+
 4. Lessons Learned
