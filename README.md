@@ -93,8 +93,17 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 </p>
 
 <p align="center">
-  <img src="scenario2images/Scenario2-UserConfirmation.png" width="500" alt="User Confirmation"><br>
+  <img src="scenario2images/Scenario2-UserConfirmation.png" width="350" alt="User Confirmation"><br>
   <em>Figure 5. User Confirmation.</em>
 </p>
 
 4. Lessons Learned
+
+* Creating user accounts for new hires are time sensitive so we need to make sure the ticket is resolved on time
+* We will be informed or we will need to ask which groups they need to be a part of so we can properly assign their groups
+* We need to follow the company guidelines for naming conventions so it all stays the same
+* We need to create the user profile first before adding them to more groups.
+
+5. Technologies Used
+
+* Active Directory
