@@ -159,4 +159,55 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 
 * Active Directory
 
-## Scenario 4: 
+## Scenario 4: None of the printers in the office are working
+
+1. Scenario Overview
+
+<p align="center">
+  <img src="scenario4images/Scenario4-InitialTicket.png" width="600" alt="Scenario Prompt"><br>
+  <em>Figure 1. Initial ticket.</em>
+</p>
+
+2. Initial Assessment
+
+* Every printer in the office is showing offline and several business events are being held back as a result. Most likely need to see the printer server to see if something is wrong with it. If I am unable to fix it, it will need to be escalated.
+
+3. Investigation/Resolution
+
+* I first went to the server room and looked at the status of all of the servers.
+
+<p align="center">
+  <img src="scenario4images/Scenario4-ServerHealth.png" width="500" alt="Server Health"><br>
+  <em>Figure 2. Server Health.</em>
+</p>
+
+* I noticed that the printer server was overloaded and so I decided to reboot the server.
+
+<p align="center">
+  <img src="scenario4images/Scenario4-ServerReboot.png" width="500" alt="Server Reboot"><br>
+  <em>Figure 3. Server Reboot.</em>
+</p>
+
+* After rebooting the server, the CPU and memory usage decreased substantially.
+
+<p align="center">
+  <img src="scenario4images/Scenario4-ServerCheck.png" width="500" alt="Server Check"><br>
+  <em>Figure 4. Server Check.</em>
+</p>
+
+* I messaged the user on the teams chat in order to confirm that the printers were back online.
+
+<p align="center">
+  <img src="scenario4images/Scenario4-UserConfirmation.png" width="500" alt="User Confirmation"><br>
+  <em>Figure 5. User Confirmation.</em>
+</p>
+
+4. Lessons Learned
+
+* 
+
+5. Technologies Used
+
+*
+
+## Scenario 5: 
