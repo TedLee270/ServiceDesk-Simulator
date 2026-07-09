@@ -17,24 +17,28 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 3. Investigation/Resolution
 
 * The first step that I took check the Active Directory and search up Kavtia Patel.
+
 <p align="center">
   <img src="scenario1images/Scenario1-Pic1.png" width="500" alt="Active Directory"><br>
   <em>Figure 2. Active Directory Search.</em>
 </p>
 
 * Once I clicked on her name, I went to the "Groups" tab and found that she was under "Engineering".
+
 <p align="center">
   <img src="scenario1images/Scenario1-GroupsBefore.png" width="500" alt="Engineering Group"><br>
   <em>Figure 3. Engineering Group.</em>
 </p>
 
 * I then removed her from the "Engineering" group to the "IT Infrastructure" group.
+
 <p align="center">
   <img src="scenario1images/Scenario1-GroupsAfter.png" width="500" alt="IT Infrastructure Group"><br>
   <em>Figure 4. IT Infrastructure Group.</em>
 </p>
 
 * Lastly, I messaged her manager Tom Wilson, who submitted the ticket to confirm whether or not the changes were submitted correctly.
+
 <p align="center">
   <img src="scenario1images/Scenario1-UserConfirmation.png" width="350" alt="User Confirmation"><br>
   <em>Figure 5. User Confirmation.</em>
@@ -107,3 +111,52 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 5. Technologies Used
 
 * Active Directory
+
+## Scenario 3: My password is not working and I cannot log in to my computer
+
+1. Scenario Overview
+
+<p align="center">
+  <img src="scenario3images/Scenario3-InitialTicket.png" width="600" alt="Scenario Prompt"><br>
+  <em>Figure 1. Initial ticket.</em>
+</p>
+
+2. Initial Assessment
+
+* Maria Garcia returned from a 3 week vacation and her password expired. She is the lead developer on the payment processing module and this issue is time sensitive. It sounds like I need to reset her password and give her a temporary password so she can log in and change it.
+
+3. Investigation/Resolution
+
+* The first step is to go to Active Directory and search up the user "Maria Garcia"
+
+<p align="center">
+  <img src="scenario3images/Scenario3-UserSearch.png" width="500" alt="Active Directory"><br>
+  <em>Figure 2. Active Directory Search.</em>
+</p>
+
+* I then go to the "Authentication" tab and verify the identity of the user by asking for the verification code
+
+<p align="center">
+  <img src="scenario3images/Scenario3-IdentityVerification.png" width="500" alt="Identity Verification"><br>
+  <em>Figure 3. Identity Verification.</em>
+</p>
+
+* Once the identity was confirmed, I was able to reset the password and send the temporary password to the correct user
+
+* The user was able to confirm that the temporary password worked and the user changed it after logging in
+
+<p align="center">
+  <img src="scenario3images/Scenario3-UserConfirmation.png" width="350" alt="User Confirmation"><br>
+  <em>Figure 4. User Confirmation.</em>
+</p>
+
+4. Lessons Learned
+
+* Temporary passwords should only be communicated through secure channels.
+* Temporary passwords must be changed immediately after logging in.
+
+5. Technologies Used
+
+* Active Directory
+
+## Scenario 4: 
