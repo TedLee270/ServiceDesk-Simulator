@@ -212,4 +212,87 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 * Windows Server (Simulated)
 * Print Server Administration (Simulated)
 
-## Scenario 5: 
+## Scenario 5: Internet completely down - cannot access anything
+
+1. Scenario Overview
+
+<p align="center">
+  <img src="scenario5images/Scenario5-InitialTicket.png" width="600" alt="Scenario Prompt"><br>
+  <em>Figure 1. Initial ticket.</em>
+</p>
+
+2. Initial Assessment
+
+* Jennifer Adams submitted a ticket and stated that the Internet was completely down and she couldn't access anything. This ticket is considered a high priority cause her work has completely halted. My first thought is to check the Internet servers to see the health of it and check to see if it's overloaded or if it has completely shut down.
+
+3. Investigation/Resolution
+
+* I first contacted Jennifer to see if the Wi-Fi was the problem and she told me that she was connected to the Ethernet via a physical cable.
+
+<p align="center">
+  <img src="scenario5images/Scenario5-UserInquiry.png" width="500" alt="User Inquiry"><br>
+  <em>Figure 2. User Inquiry.</em>
+</p>
+
+* I then went to the "Server Room" to check the health of all of the devices
+
+<p align="center">
+  <img src="scenario5images/Scenario5-ServerHealth.png" width="500" alt="Server Health"><br>
+  <em>Figure 2. Server Health.</em>
+</p>
+
+* All of the devices were up and running and I saw no issues of overloaded servers. I saw that the core router's uptime was 45 days so I decided to reboot the system to see if that solved the issue.
+
+<p align="center">
+  <img src="scenario5images/Scenario5-ServerReboot.png" width="500" alt="Server Reboot"><br>
+  <em>Figure 3. Server Reboot.</em>
+</p>
+
+* The user texted me on the teams chat that her connection came back but now some members of her team were dealing with the same issue. So I asked which floors they worked on as there are 3 floor switches for each team. She was unable to confirm which floors they worked on so I decided it was best to reset all 3 switches as two of them had uptimes of 30 days and one had an uptime of 15 days.
+
+<p align="center">
+  <img src="scenario5images/Scenario5-UserConfirmation.png" width="500" alt="User Confirmation"><br>
+  <em>Figure 4. User Confirmation.</em>
+</p>
+
+* I asked the user again if they solved the issue and she was able to tell me that she was still having issues so I decided to check the status of the external ISP as that could've been the issue.
+
+<p align="center">
+  <img src="scenario5images/Scenario5-IssueFail.png" width="500" alt="Issue Fail"><br>
+  <em>Figure 5. Issue Fail.</em>
+</p>
+
+<p align="center">
+  <img src="scenario5images/Scenario5-ISPCheck.png" width="500" alt="ISP Check"><br>
+  <em>Figure 6. ISP Check.</em>
+</p>
+
+* I then asked the user to disconnect the Ethernet cable for a few seconds and then reconnect it to see if that fixed the issue and that did not work either.
+
+<p align="center">
+  <img src="scenario5images/Scenario5-EthernetDisconnect.png" width="500" alt="Ethernet Disconnect"><br>
+  <em>Figure 7. Ethernet Disconnect.</em>
+</p>
+
+* After checking the status of the ISP status a few more times, the status of the ISP had degraded so I decided to contact the ISP and inform them of the problem.
+
+<p align="center">
+  <img src="scenario5images/Scenario5-ISPDegradation.png" width="500" alt="ISP Degradation"><br>
+  <em>Figure 6. ISP Degradation.</em>
+</p>
+
+* After hearing back from the ISP, I informed the entire company about the issue and when it would be fixed.
+
+
+
+* 
+
+4. Lessons Learned
+
+* 
+
+5. Technologies Used
+
+*
+
+## Scenario 6: 
