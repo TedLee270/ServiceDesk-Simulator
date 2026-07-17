@@ -51,14 +51,14 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 
 4. Lessons Learned
 
-* Department transfers require removing old groups and adding new ones
-* Not removing access to old group memberships provides a security risk as they have accesss that is no longer necessary
-* Always need to verify if the transfer request comes from an authorized user
-* Make sure to document every change like who requested it and when
+* Department transfers require removing old groups and adding new ones.
+* Not removing access to old group memberships provides a security risk as they have accesss that is no longer necessary.
+* Always need to verify if the transfer request comes from an authorized user.
+* Make sure to document every change like who requested it and when.
 
 5. Technologies Used
 
-* Active Directory
+* Active Directory (Simulated)
 
 ## Scenario 2: New employee starting Monday - needs account setup
 
@@ -103,14 +103,14 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 
 4. Lessons Learned
 
-* Creating user accounts for new hires are time sensitive so we need to make sure the ticket is resolved on time
-* We will be informed or we will need to ask which groups they need to be a part of so we can properly assign their groups
-* We need to follow the company guidelines for naming conventions so it all stays the same
+* Creating user accounts for new hires are time sensitive so we need to make sure the ticket is resolved on time.
+* We will be informed or we will need to ask which groups they need to be a part of so we can properly assign their groups.
+* We need to follow the company guidelines for naming conventions so it all stays the same.
 * We need to create the user profile first before adding them to more groups.
 
 5. Technologies Used
 
-* Active Directory
+* Active Directory (Simulated)
 
 ## Scenario 3: My password is not working and I cannot log in to my computer
 
@@ -127,23 +127,23 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 
 3. Investigation/Resolution
 
-* The first step is to go to Active Directory and search up the user "Maria Garcia"
+* The first step is to go to Active Directory and search up the user "Maria Garcia".
 
 <p align="center">
   <img src="scenario3images/Scenario3-UserSearch.png" width="500" alt="Active Directory"><br>
   <em>Figure 2. Active Directory Search.</em>
 </p>
 
-* I then go to the "Authentication" tab and verify the identity of the user by asking for the verification code
+* I then go to the "Authentication" tab and verify the identity of the user by asking for the verification code.
 
 <p align="center">
   <img src="scenario3images/Scenario3-IdentityVerification.png" width="500" alt="Identity Verification"><br>
   <em>Figure 3. Identity Verification.</em>
 </p>
 
-* Once the identity was confirmed, I was able to reset the password and send the temporary password to the correct user
+* Once the identity was confirmed, I was able to reset the password and send the temporary password to the correct user.
 
-* The user was able to confirm that the temporary password worked and the user changed it after logging in
+* The user was able to confirm that the temporary password worked and the user changed it after logging in.
 
 <p align="center">
   <img src="scenario3images/Scenario3-UserConfirmation.png" width="350" alt="User Confirmation"><br>
@@ -157,7 +157,7 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 
 5. Technologies Used
 
-* Active Directory
+* Active Directory (Simulated)
 
 ## Scenario 4: None of the printers in the office are working
 
@@ -204,10 +204,12 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 
 4. Lessons Learned
 
-* 
+* Printer servers are single points of failures so if the server fails, all the printers cease to work.
+* After a server reboot, users may need to clear previous jobs that were "stuck" in the queue.
 
 5. Technologies Used
 
-*
+* Windows Server (Simulated)
+* Print Server Administration (Simulated)
 
 ## Scenario 5: 
