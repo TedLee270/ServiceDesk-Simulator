@@ -238,47 +238,47 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 
 <p align="center">
   <img src="scenario5images/Scenario5-ServerHealth.png" width="500" alt="Server Health"><br>
-  <em>Figure 2. Server Health.</em>
+  <em>Figure 3. Server Health.</em>
 </p>
 
 * All of the devices were up and running and I saw no issues of overloaded servers. I saw that the core router's uptime was 45 days so I decided to reboot the system to see if that solved the issue.
 
 <p align="center">
-  <img src="scenario5images/Scenario5-ServerReboot.png" width="500" alt="Server Reboot"><br>
-  <em>Figure 3. Server Reboot.</em>
+  <img src="scenario5images/Scenario5-RouterReboot.png" width="500" alt="Router Reboot"><br>
+  <em>Figure 4. Router Reboot.</em>
 </p>
 
 * The user texted me on the teams chat that her connection came back but now some members of her team were dealing with the same issue. So I asked which floors they worked on as there are 3 floor switches for each team. She was unable to confirm which floors they worked on so I decided it was best to reset all 3 switches as two of them had uptimes of 30 days and one had an uptime of 15 days.
 
 <p align="center">
   <img src="scenario5images/Scenario5-UserConfirmation.png" width="500" alt="User Confirmation"><br>
-  <em>Figure 4. User Confirmation.</em>
+  <em>Figure 5. User Confirmation.</em>
 </p>
 
 * I asked the user again if they solved the issue and she was able to tell me that she was still having issues so I decided to check the status of the external ISP as that could've been the issue.
 
 <p align="center">
   <img src="scenario5images/Scenario5-IssueFail.png" width="500" alt="Issue Fail"><br>
-  <em>Figure 5. Issue Fail.</em>
+  <em>Figure 6. Issue Fail.</em>
 </p>
 
 <p align="center">
   <img src="scenario5images/Scenario5-ISPCheck.png" width="500" alt="ISP Check"><br>
-  <em>Figure 6. ISP Check.</em>
+  <em>Figure 7. ISP Check.</em>
 </p>
 
 * I then asked the user to disconnect the Ethernet cable for a few seconds and then reconnect it to see if that fixed the issue and that did not work either.
 
 <p align="center">
   <img src="scenario5images/Scenario5-EthernetDisconnect.png" width="500" alt="Ethernet Disconnect"><br>
-  <em>Figure 7. Ethernet Disconnect.</em>
+  <em>Figure 8. Ethernet Disconnect.</em>
 </p>
 
 * After checking the status of the ISP status a few more times, the status of the ISP had degraded so I decided to contact the ISP and inform them of the problem.
 
 <p align="center">
   <img src="scenario5images/Scenario5-ISPDegradation.png" width="500" alt="ISP Degradation"><br>
-  <em>Figure 6. ISP Degradation.</em>
+  <em>Figure 9. ISP Degradation.</em>
 </p>
 
 * After hearing back from the ISP, I informed the entire company about the issue and when it would be fixed.
