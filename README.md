@@ -283,16 +283,18 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 
 * After hearing back from the ISP, I informed the entire company about the issue and when it would be fixed.
 
-
-
-* 
-
 4. Lessons Learned
 
-* 
+* Verified whether the outage was internal or caused by the ISP.
+* Realized the importance of checking the ISP's status to identify external outages.
+* Learned how to communicate with a third-party vendor to obtain an estimated time of resolution (ETR).
+* Practiced providing timely updates to users and executives in order to inform them of the timeline.
+* Documenting each step so the next time this issue occurs, there are instructions on how to resolve the issue.
 
 5. Technologies Used
 
-*
+* Server Room (Simulated)
+* Vendor Communication (Simulated)
+* Incident Management (Simulated)
 
 ## Scenario 6: 
