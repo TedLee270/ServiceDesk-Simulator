@@ -297,4 +297,84 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 * Vendor Communication (Simulated)
 * Incident Management (Simulated)
 
-## Scenario 6: 
+## Scenario 6: Clock on my computer is wrong and my meetings are all messed up
+
+1. Scenario Overview
+
+<p align="center">
+  <img src="scenario6images/Scenario6-InitialTicket.png" width="600" alt="Scenario Prompt"><br>
+  <em>Figure 1. Initial ticket.</em>
+</p>
+
+2. Initial Assessment
+
+* Kevin Park submitted a ticket claiming that his time zones were set to Eastern instead of Central which pushed his meeting times several hours ahead. This was a critical ticket as he had already missed one meeting as a result.
+
+3. Investigation/Resolution
+
+* The first thing I did was attempt to talk the user through the process through the company chat.
+
+<p align="center">
+  <img src="scenario6images/Scenario6-UserConversation1.png" width="500" alt="User Conversation"><br>
+  <em>Figure 2. User Conversation.</em>
+</p>
+
+<p align="center">
+  <img src="scenario6images/Scenario6-UserConversation2.png" width="500" alt="User Conversation"><br>
+  <em>Figure 3. User Conversation.</em>
+</p>
+
+<p align="center">
+  <img src="scenario6images/Scenario6-UserConversation3.png" width="500" alt="User Conversation"><br>
+  <em>Figure 4. User Conversation.</em>
+</p>
+
+<p align="center">
+  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
+  <em>Figure 5. User Conversation.</em>
+</p>
+
+* After the user was unable to fix the issue with my walkthrough, I informed him that I would be remotely connecting to his computer in order to fix the issue.
+
+<p align="center">
+  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
+  <em>Figure 5. User Conversation.</em>
+</p>
+
+* Once I located his device on the "Remote Desktop" tab, I logged in using my admin credentials.
+
+<p align="center">
+  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
+  <em>Figure 5. User Conversation.</em>
+</p>
+
+* Once I connected, I went into his settings and went to the "Time and Language" tab and located the "Date and Time" setting.
+
+<p align="center">
+  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
+  <em>Figure 5. User Conversation.</em>
+</p>
+
+* I saw that the time zone was indeed set to Eastern so I switched it to Central and synced his computer which solved his issue.
+
+<p align="center">
+  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
+  <em>Figure 5. User Conversation.</em>
+</p>
+
+* Once solving his issue, I followed up with the user in order to make sure that the issue was fully resolved and everything was working properly.
+
+<p align="center">
+  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
+  <em>Figure 5. User Conversation.</em>
+</p>
+
+4. Lessons Learned
+
+* 
+
+5. Technologies Used
+
+* 
+
+## Scenario 7:
