@@ -337,44 +337,45 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 * After the user was unable to fix the issue with my walkthrough, I informed him that I would be remotely connecting to his computer in order to fix the issue.
 
 <p align="center">
-  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
-  <em>Figure 5. User Conversation.</em>
+  <img src="scenario6images/Scenario6-RemoteConnect.png" width="500" alt="Remote Connect"><br>
+  <em>Figure 6. Remote Connect.</em>
 </p>
 
 * Once I located his device on the "Remote Desktop" tab, I logged in using my admin credentials.
 
-<p align="center">
-  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
-  <em>Figure 5. User Conversation.</em>
-</p>
-
 * Once I connected, I went into his settings and went to the "Time and Language" tab and located the "Date and Time" setting.
 
 <p align="center">
-  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
-  <em>Figure 5. User Conversation.</em>
+  <img src="scenario6images/Scenario6-Settings.png" width="500" alt="Settings"><br>
+  <em>Figure 7. Settings.</em>
 </p>
 
 * I saw that the time zone was indeed set to Eastern so I switched it to Central and synced his computer which solved his issue.
 
 <p align="center">
-  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
-  <em>Figure 5. User Conversation.</em>
+  <img src="scenario6images/Scenario6-SyncClock.png" width="500" alt="Sync Clock"><br>
+  <em>Figure 8. Sync Clock.</em>
 </p>
 
 * Once solving his issue, I followed up with the user in order to make sure that the issue was fully resolved and everything was working properly.
 
 <p align="center">
-  <img src="scenario6images/Scenario6-UserConversation4.png" width="500" alt="User Conversation"><br>
-  <em>Figure 5. User Conversation.</em>
+  <img src="scenario6images/Scenario6-UserConfirmation.png" width="500" alt="User Confirmation"><br>
+  <em>Figure 9. User Confirmation.</em>
 </p>
 
 4. Lessons Learned
 
-* 
+* I was able to recognize when it was more appropriate to remotely connect to the user's computer after they were unable to fix it with a walkthrough.
+
+* Reinforced the importance of validating date, time, and time zone settings in order for users to properly work on their projects and attend their meetings.
+
+* Improved support skills by attempting to guide the user via company chat with clear instructions.
 
 5. Technologies Used
 
-* 
+* Remote Desktop Support (Simulated)
+
+* Date and Time Configuration (Simulated)
 
 ## Scenario 7:
