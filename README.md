@@ -378,4 +378,51 @@ I am utilizing ServiceDesk-Simulator in order to gain real world experience in s
 
 * Date and Time Configuration (Simulated)
 
-## Scenario 7:
+## Scenario 7: I was just promoted to department head and need the same access as the previous manager
+
+1. Scenario Overview
+
+<p align="center">
+  <img src="scenario7images/Scenario7-InitialTicket.png" width="600" alt="Scenario Prompt"><br>
+  <em>Figure 1. Initial ticket.</em>
+</p>
+
+2. Initial Assessment
+
+* Nina Patel was recently promoted to the department head of engineering and does not have the same access as her previous manager, budget reports, approving purchase requests, and managing my team. The HR team recommended that she be added to the Management Group on Active Directory.
+
+3. Investigation/Resolution
+
+* The first step is to head to Active Directory to locate the user.
+
+<p align="center">
+  <img src="scenario7images/Scenario7-ActiveDirectory.png" width="600" alt="Active Directory"><br>
+  <em>Figure 2. Active Directory.</em>
+</p>
+
+* After locating the user, I went to the Groups tab.
+
+<p align="center">
+  <img src="scenario7images/Scenario7-GroupsBefore.png" width="600" alt="Groups Before"><br>
+  <em>Figure 3. Groups Before.</em>
+</p>
+
+* After going to the Groups tab, I added the Management Group per advice from the HR.
+
+<p align="center">
+  <img src="scenario7images/Scenario7-GroupsAfter.png" width="600" alt="Groups After"><br>
+  <em>Figure 4. Groups After.</em>
+</p>
+
+* Once I added the Management Group, I contacted the user to confirm that the issue was resolved.
+
+<p align="center">
+  <img src="scenario7images/Scenario7-UserConfirmation.png" width="600" alt="User Confirmation"><br>
+  <em>Figure 5. User Confirmation.</em>
+</p>
+
+4. Lessons Learned
+
+
+
+5. Technologies Used
